@@ -107,7 +107,6 @@ Now you can use rviz to visualise your real robot on your pc.
 
 
 
-<span style="font-size:larger;">Real robot</span>
 
 <table>
   <tr>
