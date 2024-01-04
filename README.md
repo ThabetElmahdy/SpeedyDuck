@@ -114,7 +114,6 @@ Now you can use rviz to visualise your real robot on your pc.
       <img src="media/map_from_rviz.png" alt="Map from rviz" width="400px">
     </td>
     <td>
-      <img src="media/real_map.jpeg" alt="Real map" width="400px">
     </td>
   </tr>
 </table>
